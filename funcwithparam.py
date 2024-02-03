@@ -1,9 +1,9 @@
 def print_params(param, params):
-    print('parara')
-    print('param')
+    print(param)
+    print(params)
 
 
-print_params(params=0, param=1)
-for print_params in range(2):
-    print('privet')
+
+for wol in range(2):
+    print_params(param='low', params='cow')
 
